@@ -1,0 +1,11 @@
+{
+  "env": {
+    "jest/globals": true
+  },
+  "globals": {
+    "expect": true
+  },
+  "rules": {
+    "no-console": "off"
+  }
+}

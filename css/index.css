@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid black;
+  width: 500px;
+  padding: 16px;
+  font-size: 2em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.block {
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
+}
