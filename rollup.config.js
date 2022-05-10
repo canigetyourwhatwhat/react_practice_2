@@ -40,6 +40,7 @@ export default {
             port: 10001,
             verbose: true,
             open,
+            historyApiFallback: true,
           }),
           livereload(),
         ]
